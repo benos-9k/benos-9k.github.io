@@ -1,0 +1,12 @@
+# Site settings
+title: "Ben Allen"
+subtitle: "testing testing..."
+email: benos.9k@gmail.com
+description: >
+  WIP.
+baseurl: /blog
+url: "http://benos-9k.github.io"
+github_username: benos-9k
+
+# Build settings
+markdown: kramdown
